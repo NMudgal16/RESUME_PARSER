@@ -18,7 +18,6 @@ An end-to-end machine learning project for intelligent resume parsing using Name
 ## Installation and Setup
 1. **Clone the Repository**:
 2. **Set Up Environment**:
-3. 
 3. **Prepare Data**:
 - Place your Kaggle dataset CSV as `data/resume_data.csv`.
 - Run preprocessing: `python src/preprocess.py`.
